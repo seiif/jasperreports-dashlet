@@ -1,12 +1,7 @@
 #summary Build from source
 
-= Introduction =
+= Building from Source =
 
-Build from source
-
-= Details =
-
-Building from Source
 Check out the project if you have not already done so
 
 svn checkout http://jasperreports-dashlet.googlecode.com/svn/trunk/
